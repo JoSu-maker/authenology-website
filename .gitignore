@@ -120,3 +120,4 @@ server/.env
 # API keys and secrets
 secrets/
 keys/
+.env
